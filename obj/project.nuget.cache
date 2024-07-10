@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Bu/3vgqL1gBEoH+QTE8a2ByE9APAkcIxW9k0Vv47CM8avpayEad+5zqwiOjE6+N52XxZPv0uuBEUED806SJhw==",
+  "success": true,
+  "projectFilePath": "/home/vijay_v1318/cloudbuilddemo/cloudbuilddemo.csproj",
+  "expectedPackageFiles": [
+    "/home/vijay_v1318/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/vijay_v1318/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/vijay_v1318/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.30/microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
