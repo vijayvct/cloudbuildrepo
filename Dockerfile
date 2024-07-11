@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY appbuild/. /app/
 
-EXPOSE 8080
+EXPOSE 80
 
 CMD ["dotnet","cloudbuilddemo.dll"]
