@@ -1,0 +1,7 @@
+/home/vijay_v1318/cloudbuilddemo/appbuild/cloudbuilddemo
+/home/vijay_v1318/cloudbuilddemo/appbuild/appsettings.Development.json
+/home/vijay_v1318/cloudbuilddemo/appbuild/appsettings.json
+/home/vijay_v1318/cloudbuilddemo/appbuild/cloudbuilddemo.dll
+/home/vijay_v1318/cloudbuilddemo/appbuild/cloudbuilddemo.deps.json
+/home/vijay_v1318/cloudbuilddemo/appbuild/cloudbuilddemo.runtimeconfig.json
+/home/vijay_v1318/cloudbuilddemo/appbuild/cloudbuilddemo.pdb
